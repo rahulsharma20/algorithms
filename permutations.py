@@ -1,3 +1,4 @@
+# Find all permutations of a string
 def permutations(string, step = 0):
 
     # if we've gotten to the end, print the permutation
