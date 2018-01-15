@@ -1,2 +1,2 @@
 # algorithms
-Some algorithmic questions in python
+Solution for some algorithmic problems in python
