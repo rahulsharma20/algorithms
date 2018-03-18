@@ -13,9 +13,9 @@ def differenceKIntegersPairCount(arr, k):
            arrayDict[elem] = 1
 
     for elem in arr:
-        if elem + 2 in arrayDict:
+        if elem + k in arrayDict:
             count = count + 1
-            finalArray.append([elem, elem + 2])
+            finalArray.append([elem, elem + k])
 
     return finalArray
 
