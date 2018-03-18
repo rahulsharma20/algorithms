@@ -1,4 +1,4 @@
-# Given two strings, check if one is permutation of another
+# Given two strings, check if one is permutation of the other
 # Consideration 1. case sensitive (God is not a permutation of dog)
 # Consideration 2. Whitespaces are significant ("god " is not a permutation of "dog")
 
